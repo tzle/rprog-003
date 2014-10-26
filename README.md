@@ -1,4 +1,5 @@
-rprog-003
-=========
+"Getting and Cleaning Data"
+Coursework for Johns Hopkins Data Science Specialization via coursera.com
+=========================
 
-R Programming Course / Coursework for Johns Hopkins Data Science Specialization
+
